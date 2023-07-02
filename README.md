@@ -1,7 +1,7 @@
 ![banner](https://github.com/Rudra00codes/Rudra00codes/blob/main/Github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Rudra Pratap Singh.</h1>
 <h3 align="center">"Mastering the art of frontend development: Empowering your designs."</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="coding" width="350" src=https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra00codes&label=Profile%20views&color=0e75b6&style=flat" alt="rudra00codes" /> </p>
 
