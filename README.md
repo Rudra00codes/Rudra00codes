@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra00codes&label=Profile%20views&color=0e75b6&style=flat" alt="rudra00codes" /> </p>
 
-- 🔭 I’m currently working on [CodeVerse](file:///C:/Users/dell/Desktop/website/web_prototype.html)
+- 🔭 I’m currently working on [CodeVerse](file:///C:/Users/dell/Desktop/website/web_prototype.html)(Website).
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT.**
 
