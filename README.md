@@ -1,4 +1,4 @@
-[!MasterHead](https://github.com/Rudra00codes/Rudra00codes/blob/main/Github%20banner.gif)
+![banner](file:///C:/Users/dell/Desktop/website/accessories/Github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Rudra Pratap Singh.</h1>
 <h3 align="center">"Mastering the art of frontend development: Empowering your designs."</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
