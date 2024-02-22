@@ -1,5 +1,5 @@
 ![banner](https://github.com/Rudra00codes/Rudra00codes/blob/main/Github%20banner.gif)
-<h1 align="center">Hi 👋, I'm Rudra.</h1>
+/*<h1 align="center">Hi 👋, I'm Rudra.</h1>*/
 <img align="right" src="https://visitor-badge.laobi.laobi.icu/badge?page_id=rudra00codes.rudra00codes" />
 
 <h1 align="center">
