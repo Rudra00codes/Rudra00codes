@@ -7,23 +7,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra00codes&label=Profile%20views&color=0e75b6&style=flat" alt="rudra00codes" /> </p>
 
-- 🔭 I’m currently working on [CodeVerse](file:///C:/Users/dell/Desktop/website/web_prototype.html)(Website).
+- 🔭 I’m currently working on [ASYNTH-Project Website].
 
-- 🌱 I’m currently learning **C, C++, JavaScript**
+- 🌱 I’m currently learning **Python, C++, JavaScript.**
 
-- 👯 I’m looking to collaborate on **CodeVerse(The development of my website is currently in progress.)**
+- 👯 I’m looking to collaborate on **ASYNTH(The development of my website is currently in progress.)**
 
 - 🤝 I’m looking for help with **"Frontend and the utilization of Frameworks"**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📫 How to reach me **: Email-rudra17122005@gmail.com**
+- 📫 How to reach me **: Email-rudra18casual@gmail.com**
 
 - ⚡ Fun fact **: Coding is my warmup, and debugging is my cardio.**<br>My passion for football has been redirected by my strong interest in technology.
  
 <h3 align="center"> 🔗Connect with me </h3>
 <p align="center">
-<a href="https://instagram.com/stfu_rudra00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stfu_rudra00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/rudra-pratap-singh1712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rudra-pratap-singh1712" height="30" width="40" /></a>
+<a href="https://instagram.com/passionate_pencil00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stfu_rudra00" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@rudracodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rudracodes" height="40" width="50" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rudra00codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rudra00codes" height="30" width="40" /></a>
 </p>
@@ -37,7 +38,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>     
     <!-- Link to C++ programming -->
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>    
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" width="40" height="40"/> </a>
+    <!-- Link to Python programming -->
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <!-- Link to CSS -->
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
