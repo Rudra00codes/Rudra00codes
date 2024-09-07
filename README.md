@@ -29,6 +29,10 @@
 <a href="https://auth.geeksforgeeks.org/user/rudra00codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rudra00codes" height="30" width="40" /></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/Rudra00codes/Rudra00codes/output/snake.svg" alt="Snake animation" />
+
+###
+
 <hr/>
 <h2 align="center"> ⚒️ Languages and Tools ⚒️</h2>
 
