@@ -91,8 +91,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Rudra00codes/Rudra00codes/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Rudra00codes/Rudra00codes/blob/output/github-contribution-grid-snake.gif)
 
-###
 <hr/>
 
