@@ -23,7 +23,11 @@
 
 - 📫 How to reach me **: Email-rudra18casual@gmail.com**
 
-- ⚡ Fun fact **: Coding is my warmup, and debugging is my cardio.**<br>My passion for football has been redirected by my strong interest in technology.
+- ⚡ Fun fact **: Coding is my warmup, and debugging is my cardio.**<br>
+
+- 👨‍💻 My passion for football has been redirected by my strong interest in technology.
+
+<hr>
  
 <h3 align="center"> 🔗Connect with me </h3>
 <p align="center">
@@ -33,7 +37,9 @@
 <a href="https://auth.geeksforgeeks.org/user/rudra00codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rudra00codes" height="30" width="40" /></a>
 </p>
 
+
 ###
+
 
 <h2 align="center"> ⚒️ Languages and Tools ⚒️</h2>
 
