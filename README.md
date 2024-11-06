@@ -28,6 +28,10 @@
 - 👨‍💻 My passion for football has been redirected by my strong interest in technology.
 
 <hr>
+
+
+ [![An image of @rudra00codes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudra00codes)](https://holopin.io/@rudra00codes)
+
  
 <h3 align="center"> 🔗Connect with me </h3>
 <p align="center">
