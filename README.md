@@ -100,7 +100,11 @@
 
 ###
 
-<img align=right height="550" src="https://www.notion.so/image/https%3A%2F%2Fi.pinimg.com%2Foriginals%2F06%2F99%2Ffc%2F0699fc31e59fbf17b69565b4c132cb9f.gif?table=block&id=99bd6d8f-7bfa-4a45-bf31-16ec4f55c793&spaceId=c600af6c-6ddf-4e04-926f-47aef5e89aa6&userId=13f1ec50-1356-4cf6-8b33-a84293465580&cache=v2"  />
+
+<img align=right height="550" src="https://img.notionusercontent.com/ext/https%3A%2F%2Fi.pinimg.com%2Foriginals%2F06%2F99%2Ffc%2F0699fc31e59fbf17b69565b4c132cb9f.gif/size/?exp=1731789088&sig=XH9YikhLJfHAnv95sMPoHMeEfwRIajC4nBj1td0suio"/>
+
+
+[![Rudra00codes's GitHub | Stats](https://stats.quira.sh/Rudra00codes/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Rudra00codes)
 
 ![Rudra00codes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra00codes&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 <div align=left>
