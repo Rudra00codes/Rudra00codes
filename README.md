@@ -13,19 +13,19 @@
 
 - 🔭 I’m currently working on [ASYNTH-Project Website].
 
-- 🌱 I’m currently learning **Python, C++, JavaScript.**
+- 🌱 I’m currently learning **DevOps, ML and MERN**
 
-- 👯 I’m looking to collaborate on **ASYNTH(The development of my website is currently in progress.)**
+- 👯 I’m looking to collaborate on **ASYNTH (I am currently working on my website.)**
 
-- 🤝 I’m looking for help with **"Frontend and the utilization of Frameworks"**
+- 🤝 I’m looking for help with **ML Model Training and Evaluation**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
 - 📫 How to reach me **: Email-rudra18casual@gmail.com**
 
-- ⚡ Fun fact **: Coding is my warmup, and debugging is my cardio.**<br>
+- ⚡ Fun fact **: Sometimes, I prefer Vibe Coding**<br>
 
-- 👨‍💻 My strong interest in technology has redirected my passion for football.
+- 👨‍💻 My strong enthusiasm for technology has reshaped my affection for football..
 
 <hr>
 
