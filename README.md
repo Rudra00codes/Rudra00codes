@@ -5,27 +5,25 @@
 <h3 align="centre">"Mastering the art of frontend development: Empowering your designs."</h3>
 <img align="right" alt="coding" width="450" src=https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
-<img align="left" src="https://profile-counter.glitch.me/Rudra00codes/count.svg?"  />
+![Page Views](https://komarev.com/ghpvc/?username=Rudra00codes&color=yellow)
 
 ###
 
-<br>
+- 🚀 I’m actively building and enhancing the Repositories and other innovative projects.
 
-- 🔭 I’m currently working on [ASYNTH-Project Website].
+- 🌱 Always learning: diving deep into DevOps, Machine Learning, and the Full-Stack to expand my tech toolbox.
 
-- 🌱 I’m currently learning **DevOps, ML and MERN**
+- 🤝 Open to collaborations—especially around latest repos and creative web projects. Let’s build something impactful together!
 
-- 👯 I’m looking to collaborate on **ASYNTH (I am currently working on my website.)**
+- 🧠 Interested in connecting with ML enthusiasts for model training, evaluation, and brainstorming new ideas.
 
-- 🤝 I’m looking for help with **ML Model Training and Evaluation**
+- 💻 Explore all my coding adventures and repositories on my GitHub profile.
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 📬 Reach out: Email-**rudra17122005@gmail.com**—I love discussing tech, projects, or just geeking out!
 
-- 📫 How to reach me **: Email-rudra18casual@gmail.com**
+- ⚡ Fun fact: Sometimes I get in the zone and just “vibe code”—music on, focus strong, creativity unleashed.
 
-- ⚡ Fun fact **: Sometimes, I prefer Vibe Coding**<br>
-
-- 👨‍💻 My strong enthusiasm for technology has reshaped my affection for football..
+- ⚽ While tech has become my passion, my love for football still fuels my drive and teamwork.
 
 <hr>
 
@@ -89,10 +87,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra00codes&radius=100&theme=high-contrast&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20Graph" height="350" alt="activity-graph graph"  />
-</div>
 
 ###
 
