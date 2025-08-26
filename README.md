@@ -1,7 +1,10 @@
 ![banner](https://github.com/user-attachments/assets/60a20d27-52af-4abb-88ba-d9b9e0477629)
+
 <h1 align="center">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sometype+Mono&weight=900&size=40&pause=1000&color=F7BF30&center=true&vCenter=true&random=false&width=435&lines=Hi+there!🤝+;I'm++RUDRA!😃" alt="Typing SVG" /></a>
 </h1>
+
 <h3 align="centre">"Mastering the art of frontend development: Empowering your designs."</h3>
 <img align="right" alt="coding" width="450" src=https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
@@ -35,7 +38,7 @@
 <p align="center">
 <a href="https://www.hackerrank.com/@rudracodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rudracodes" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rudra-pratap-singh1712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rudra-pratap-singh1712" height="30" width="40" /></a>
-<a href="https://instagram.com/passionate_pencil00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stfu_rudra00" height="30" width="40" /></a>
+<a href="https://instagram.com/passionate_pencil_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stfu_rudra00" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rudra00codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rudra00codes" height="30" width="40" /></a>
 </p>
 
@@ -90,28 +93,25 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rudra00codes/Rudra00codes/output/snake.svg" alt="Snake animation" />
+<img align=center src="https://raw.githubusercontent.com/Rudra00codes/Rudra00codes/output/snake.svg" alt="Snake animation" />
+
+![3D Contribution View](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ###
 
-
 <img align=right height="550" src="https://img.notionusercontent.com/ext/https%3A%2F%2Fi.pinimg.com%2Foriginals%2F06%2F99%2Ffc%2F0699fc31e59fbf17b69565b4c132cb9f.gif/size/?exp=1731789088&sig=XH9YikhLJfHAnv95sMPoHMeEfwRIajC4nBj1td0suio"/>
 
-
-[![Rudra00codes's GitHub | Stats](https://stats.quira.sh/Rudra00codes/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Rudra00codes)
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Rudra00codes&theme=%7B%22backgroundColor%22%3A%22%23000%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23fdd400%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
 
 ![Rudra00codes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra00codes&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 <div align=left>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rudra00codes&theme=vision_friendly_dark)
 
-<br>
-
-![Rudra00codes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudra00codes&theme=vision-friendly-dark&hide_border=true)
 </div>
 
 ###
-<div align=left height="650">
+<div align=center height="650">
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudra00codes&theme=vision_friendly_dark)
 </div>
