@@ -3,6 +3,7 @@
 <h1 align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sometype+Mono&weight=900&size=40&pause=1000&color=F7BF30&center=true&vCenter=true&random=false&width=435&lines=Hi+there!🤝+;I'm++RUDRA!😃" alt="Typing SVG" /></a>
+
 </h1>
 
 <h3 align="centre">"Mastering the art of frontend development: Empowering your designs."</h3>
@@ -30,10 +31,8 @@
 
 <hr>
 
+[![An image of @rudra00codes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudra00codes)](https://holopin.io/@rudra00codes)
 
- [![An image of @rudra00codes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudra00codes)](https://holopin.io/@rudra00codes)
-
- 
 <h3 align="center"> 🔗Connect with me </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/@rudracodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rudracodes" height="40" width="50" /></a>
@@ -42,16 +41,13 @@
 <a href="https://auth.geeksforgeeks.org/user/rudra00codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rudra00codes" height="30" width="40" /></a>
 </p>
 
-
 ###
-<hr>
 
+<hr>
 
 <h2 align="center"> ⚒️ Languages and Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="13" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=md" height="35" alt="markdown logo"  />
@@ -76,15 +72,20 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"  />
   <img width="13" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="13" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="35" alt="ubuntu logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=powershell" height="35" alt="powershell logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
 </div>
 
 ###
-
 
 <hr/>
 
@@ -99,21 +100,27 @@
 
 ###
 
-<img align=right height="550" src="https://img.notionusercontent.com/ext/https%3A%2F%2Fi.pinimg.com%2Foriginals%2F06%2F99%2Ffc%2F0699fc31e59fbf17b69565b4c132cb9f.gif/size/?exp=1731789088&sig=XH9YikhLJfHAnv95sMPoHMeEfwRIajC4nBj1td0suio"/>
+<div align="center">
+  <img
+    src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Rudra00codes&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=3"
+    alt="GitHub Streak"
+    style="width:100%;max-width:1400px;height:auto;display:block;margin:0 auto;"
+  />
+</div>
+<br />
 
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Rudra00codes&theme=%7B%22backgroundColor%22%3A%22%23000%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23fdd400%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+
+<div align=center height="650">
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudra00codes&theme=vision_friendly_dark)
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
 ![Rudra00codes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra00codes&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
-<div align=left>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rudra00codes&theme=vision_friendly_dark)
 
 </div>
 
-###
-<div align=center height="650">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudra00codes&theme=vision_friendly_dark)
-</div>
 <hr/>
-
