@@ -123,4 +123,10 @@
 
 </div>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=default&layout=default&font=PixelifySans&quoteType=random&fontColor=yellow&borderColor=yellow)
+
+</div>
+
 <hr/>
